@@ -1,3 +1,6 @@
+[![Build Status](https://app.travis-ci.com/summer6school/mp2lab1.svg?branch=main)](https://app.travis-ci.com/summer6school/mp2lab1)
+
+
 # Методы программирования 2: Множества на основе битовых полей
 
 <!-- TODO
